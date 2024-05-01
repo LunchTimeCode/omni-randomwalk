@@ -13,4 +13,4 @@ egui = "0.22.0"
 # You only need serde if you want app persistence:
 serde = { version = "1", features = ["derive"] }
 rand = "0.8.5"
-getrandom = { version = "0.2", features = ["js"] }
+getrandom = { version = "0.2.14", features = ["js"] }
